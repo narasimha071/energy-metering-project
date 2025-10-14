@@ -29,7 +29,3 @@ The project provides automated billing, anomaly detection, and visual analytics 
 - Real-time anomaly alerts  
 - Energy efficiency insights
 
-## 👨‍💻 Author
-**Narasimha Raju**  
-Bachelor of Technology – ECE | Gitam University, Hyderabad
-
