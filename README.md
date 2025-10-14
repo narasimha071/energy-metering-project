@@ -29,3 +29,9 @@ The project provides automated billing, anomaly detection, and visual analytics 
 - Real-time anomaly alerts  
 - Energy efficiency insights
 
+## Power BI Dashboard
+The interactive Power BI dashboard visualizing **daily, weekly, and monthly consumption trends is stored in Google Drive.  
+
+🔗 Access Link: https://drive.google.com/drive/u/1/folders/19h9lwRFZ0m89ezaa8dbN2x0rHN7EGyNZ
+
+
